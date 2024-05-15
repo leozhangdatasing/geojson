@@ -1,0 +1,14 @@
+{
+"type": "FeatureCollection",
+"name": "Southland_Flood_Protection_Dams",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 1, "NAME": "Lagoon Creek" }, "geometry": { "type": "Point", "coordinates": [ 167.881327384473849, -45.499670017437218 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 2, "NAME": "Dawson City" }, "geometry": { "type": "Point", "coordinates": [ 167.895241783018236, -45.452939117155118 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 3, "NAME": "Claytons" }, "geometry": { "type": "Point", "coordinates": [ 168.131402784076784, -45.423329916986148 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 4, "NAME": "Winton" }, "geometry": { "type": "Point", "coordinates": [ 168.372924137316375, -45.965886091694749 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 5, "NAME": "Waihopai" }, "geometry": { "type": "Point", "coordinates": [ 168.395207659070479, -46.383301673109813 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 6, "NAME": "Otepuni" }, "geometry": { "type": "Point", "coordinates": [ 168.39818192969733, -46.413344030049551 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 7, "NAME": "Kingswell" }, "geometry": { "type": "Point", "coordinates": [ 168.401168223645271, -46.44184184592909 ] } }
+]
+}
